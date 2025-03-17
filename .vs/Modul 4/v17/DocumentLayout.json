@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\a. Asprak KPL\\a. Learning API Swagger\\Modul 4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBFB4B5A-C14A-4027-9F58-192ADB71EBDD}|Modul 4\\Modul 4.csproj|f:\\a. asprak kpl\\a. learning api swagger\\modul 4\\modul 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBFB4B5A-C14A-4027-9F58-192ADB71EBDD}|Modul 4\\Modul 4.csproj|solutionrelative:modul 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\a. Asprak KPL\\a. Learning API Swagger\\Modul 4\\Modul 4\\Program.cs",
+              "RelativeDocumentMoniker": "Modul 4\\Program.cs",
+              "ToolTip": "F:\\a. Asprak KPL\\a. Learning API Swagger\\Modul 4\\Modul 4\\Program.cs",
+              "RelativeToolTip": "Modul 4\\Program.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAwwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T09:32:04.069Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

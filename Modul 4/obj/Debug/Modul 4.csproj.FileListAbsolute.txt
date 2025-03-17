@@ -1,0 +1,7 @@
+F:\a. Asprak KPL\a. Learning API Swagger\Modul 4\Modul 4\bin\Debug\Modul 4.exe.config
+F:\a. Asprak KPL\a. Learning API Swagger\Modul 4\Modul 4\bin\Debug\Modul 4.exe
+F:\a. Asprak KPL\a. Learning API Swagger\Modul 4\Modul 4\bin\Debug\Modul 4.pdb
+F:\a. Asprak KPL\a. Learning API Swagger\Modul 4\Modul 4\obj\Debug\Modul 4.csproj.AssemblyReference.cache
+F:\a. Asprak KPL\a. Learning API Swagger\Modul 4\Modul 4\obj\Debug\Modul 4.csproj.CoreCompileInputs.cache
+F:\a. Asprak KPL\a. Learning API Swagger\Modul 4\Modul 4\obj\Debug\Modul 4.exe
+F:\a. Asprak KPL\a. Learning API Swagger\Modul 4\Modul 4\obj\Debug\Modul 4.pdb
