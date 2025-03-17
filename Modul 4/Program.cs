@@ -56,6 +56,18 @@ namespace Modul_4
     {
         static void Main(string[] args)
         {
+            //Console.WriteLine("Masukkan tiga angka dua-digit:");
+
+            //// Menerima input dan mengonversinya ke long
+            //Console.Write("Angka pertama: ");
+            //long angka1 = Convert.ToInt64(Console.ReadLine());
+
+            //Console.Write("Angka kedua: ");
+            //long angka2 = Convert.ToInt64(Console.ReadLine());
+
+            //Console.Write("Angka ketiga: ");
+            //long angka3 = Convert.ToInt64(Console.ReadLine());
+
             PemrosesData pemroses = new PemrosesData();
 
             // Tipe data long
